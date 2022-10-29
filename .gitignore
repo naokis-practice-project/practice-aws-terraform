@@ -1,2 +1,1 @@
-first-resource/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.37.0_x5
-variables/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.37.0_x5
+./*/.terraform/
